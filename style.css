@@ -1,0 +1,58 @@
+body {
+    background-color:white;
+    text-align: center;
+}
+
+.nav {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.hero {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.main {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.profile {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.title {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.description {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.links {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.timeline {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.footer {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
