@@ -1,15 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+
 body {
-    background-color:white;
+    
     text-align: center;
+    font-family: 'Marck Script', cursive;
 }
+
 
 .nav {
-    Border: 2px solid black;
-    margin: 5px;
-    padding: 5px;
-}
-
-.hero {
     Border: 2px solid black;
     margin: 5px;
     padding: 5px;
@@ -19,6 +18,16 @@ body {
     Border: 2px solid black;
     margin: 5px;
     padding: 5px;
+}
+
+.hero {
+    Border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    background-image: url('Assets/Images/sky.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .profile {
